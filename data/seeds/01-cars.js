@@ -1,6 +1,6 @@
 const cars = [
     {
-        vin: 'fdsfie45632873412',
+        vin: '1FMZU73E12ZC48134',
         make: 'mazda',
         model: 'miata',
         mileage: 80500,
@@ -8,7 +8,7 @@ const cars = [
         transmission: 'manual'
     },
     {
-        vin: 'fddsas45332872314',
+        vin: 'WDDHF8HB6BA222499',
         make: 'nissan',
         model: 'altima',
         mileage: 120400,
@@ -16,7 +16,7 @@ const cars = [
         transmission: 'automatic'
     },
     {
-        vin: 'fdswee75632871341',
+        vin: '1FAFP28105G159619',
         make: 'mistubishi',
         model: 'eclipse',
         mileage: 30000,

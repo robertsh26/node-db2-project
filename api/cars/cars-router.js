@@ -28,7 +28,7 @@ router.post(
     checkVinNumberValid,
     checkVinNumberUnique, 
     async (req, res, next) => {
-    
+        res.json('posting')
 })
 
 module.exports = router
